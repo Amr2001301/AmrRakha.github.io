@@ -82711,12 +82711,12 @@ $2(a,b){var s=null
 return A.afA(B.y,A.bF(s,s,B.o,s,s,s,s,s,s,s,s,s,s,s),B.y)},
 $S:73}
 A.aok.prototype={
-$2(a,b){var s=null,r="assets/image/icons8-link-48.png",q=this.a,p=q.a.f.b.gaP()[q.a.r],o=J.cc(J.cc(A.be(p.b.az("controllers"),p.a),b),"type")
+$2(a,b){var s=null,r="image/icons8-link-48.png",q=this.a,p=q.a.f.b.gaP()[q.a.r],o=J.cc(J.cc(A.be(p.b.az("controllers"),p.a),b),"type")
 p=J.i8(o)
-if(p.j(o,"IconLinkEnum.github"))return A.hC(!1,!0,A.iv("assets/image/icons8-github-48.png",B.an,s),s,!0,s,s,s,s,s,s,s,s,s,new A.aoe(q,b),s,s,s,s)
+if(p.j(o,"IconLinkEnum.github"))return A.hC(!1,!0,A.iv("image/icons8-github-48.png",B.an,s),s,!0,s,s,s,s,s,s,s,s,s,new A.aoe(q,b),s,s,s,s)
 if(p.j(o,"IconLinkEnum.website"))return A.hC(!1,!0,A.iv(r,B.an,s),s,!0,s,s,s,s,s,s,s,s,s,new A.aof(q,b),s,s,s,s)
-if(p.j(o,"IconLinkEnum.googlePlay"))return A.hC(!1,!0,A.iv("assets/image/icons8-google-play-50.png",B.an,s),s,!0,s,s,s,s,s,s,s,s,s,new A.aog(q,b),s,s,s,s)
-if(p.j(o,"IconLinkEnum.appStore"))return A.hC(!1,!0,A.iv("assets/image/icons8-app-store-50.png",B.an,s),s,!0,s,s,s,s,s,s,s,s,s,new A.aoh(q,b),s,s,s,s)
+if(p.j(o,"IconLinkEnum.googlePlay"))return A.hC(!1,!0,A.iv("image/icons8-google-play-50.png",B.an,s),s,!0,s,s,s,s,s,s,s,s,s,new A.aog(q,b),s,s,s,s)
+if(p.j(o,"IconLinkEnum.appStore"))return A.hC(!1,!0,A.iv("image/icons8-app-store-50.png",B.an,s),s,!0,s,s,s,s,s,s,s,s,s,new A.aoh(q,b),s,s,s,s)
 if(p.j(o,"IconLinkEnum.other"))return A.hC(!1,!0,A.iv(r,B.an,s),s,!0,s,s,s,s,s,s,s,s,s,new A.aoi(q,b),s,s,s,s)
 return A.c_(s,s,s)},
 $S:586}
@@ -82900,7 +82900,7 @@ $2(a,b){return A.c_(null,16,null)},
 $S:90}
 A.O1.prototype={
 M(a){var s=this,r=null
-return A.Bl(A.b([A.hC(!1,!0,A.iv("assets/image/icons8-linkedin-64.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.agc(s),r,r,r,r),A.hC(!1,!0,A.iv("assets/image/icons8-github-48.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.agd(s),r,r,r,r),A.hC(!1,!0,A.iv("assets/image/icons8-facebook-60.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.age(s),r,r,r,r),A.hC(!1,!0,A.iv("assets/image/icons8-whatsapp-50.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.agf(s),r,r,r,r),A.hC(!1,!0,A.iv("assets/image/icons8-twitter-50.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.agg(s),r,r,r,r),A.hC(!1,!0,A.iv("assets/image/icons8-instagram-50.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.agh(s),r,r,r,r)],t.D),B.af,B.e2,B.a8,8)}}
+return A.Bl(A.b([A.hC(!1,!0,A.iv("image/icons8-linkedin-64.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.agc(s),r,r,r,r),A.hC(!1,!0,A.iv("image/icons8-github-48.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.agd(s),r,r,r,r),A.hC(!1,!0,A.iv("image/icons8-facebook-60.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.age(s),r,r,r,r),A.hC(!1,!0,A.iv("image/icons8-whatsapp-50.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.agf(s),r,r,r,r),A.hC(!1,!0,A.iv("image/icons8-twitter-50.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.agg(s),r,r,r,r),A.hC(!1,!0,A.iv("image/icons8-instagram-50.png",B.y,28),r,!0,r,r,r,r,r,r,r,r,r,new A.agh(s),r,r,r,r)],t.D),B.af,B.e2,B.a8,8)}}
 A.agc.prototype={
 $0(){var s=0,r=A.G(t.H),q=this
 var $async$$0=A.C(function(a,b){if(a===1)return A.D(b,r)
@@ -82965,7 +82965,7 @@ s.l()
 this.a0y()},
 M(a){var s=null,r=this.e
 r===$&&A.a()
-return A.N3(s,A.j9(new A.fq(r,!1,A.iv("assets/image/logo.png",B.an,s),s),s,s))}}
+return A.N3(s,A.j9(new A.fq(r,!1,A.iv("image/logo.png",B.an,s),s),s,s))}}
 A.apP.prototype={
 $1(a){var s,r,q=this.a.c
 q.toString
