@@ -1,0 +1,23 @@
+{
+    "name": "Amr Rakha",
+    "short_name": "Amr Rakha",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "I'm Amr Rakha , a software engineer and a passionate developer. I love building web applications and exploring new technologies.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "assets/image/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/image/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
